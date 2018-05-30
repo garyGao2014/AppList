@@ -49,6 +49,7 @@ if [ ! -d AppList_Folder_GIT ];then
 	currentTimeStamp=$((timeStamp*1000+`date "+%N"`/1000000)) 
 	git add .
 	git commit -m "$currentTimeStamp,上传AppList"
+	git push origin master
 fi	
 
 
