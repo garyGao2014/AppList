@@ -15,7 +15,6 @@ robo-3t
 shadowsocksx-ng
 sourcetree
 squirrel
-sublime-text
 switchhosts
 the-unarchiver
 thunder

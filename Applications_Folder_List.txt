@@ -1,65 +1,66 @@
 total 0
-drwxr-xr-x   3 garygao  staff    96B Apr  9 19:47 Alfred 3.app
-drwxr-xr-x@  3 root     wheel    96B Mar  1 19:08 App Store.app
-drwxr-xr-x@  3 root     wheel    96B Feb  8 11:17 Automator.app
-drwxr-xr-x   3 garygao  staff    96B Dec 26 15:55 BaiduNetdisk_mac.app
-drwxr-xr-x@  3 root     wheel    96B Oct  7  2017 Calculator.app
-drwxr-xr-x@  3 root     wheel    96B Feb  7 10:45 Calendar.app
-drwxr-xr-x   3 garygao  staff    96B Jan 27 21:31 CheatSheet.app
-drwxr-xr-x@  3 root     wheel    96B Feb 22 12:45 Chess.app
-drwxr-xr-x   3 garygao  admin    96B Nov 23  2017 CleanMyMac 3.app
-drwxr-xr-x@  3 root     wheel    96B Jan 29 06:00 Contacts.app
-drwxr-xr-x@  3 garygao  admin    96B Sep 17  2016 Cornerstone.app
-drwxr-xr-x@  3 root     wheel    96B Oct 12  2017 DVD Player.app
-drwxr-xr-x@  3 root     wheel    96B Oct 19  2017 Dashboard.app
-drwxr-xr-x@  3 root     wheel    96B Oct  7  2017 Dictionary.app
-drwxr-xr-x@  3 garygao  staff    96B Mar 30 06:03 Evernote.app
-drwxr-xr-x@  3 root     wheel    96B Feb 22 12:39 FaceTime.app
-drwxr-xr-x@  3 root     wheel    96B Feb  5 04:16 Font Book.app
-drwxrwxr-x@  3 garygao  admin    96B May 15 08:20 Google Chrome.app
-drwxr-xr-x   3 garygao  staff    96B May  7 01:17 IINA.app
-drwxr-xr-x@  3 root     wheel    96B Dec 13 14:29 Image Capture.app
-drwxr-xr-x   3 garygao  staff    96B May  8 14:41 IntelliJ IDEA.app
-drwxr-xr-x   3 garygao  staff    96B Jan 17  2017 Jietu.app
-drwxr-xr-x@  3 root     wheel    96B Oct 19  2017 Launchpad.app
-drwxr-xr-x@  3 root     wheel    96B Mar  3 10:39 Mail.app
-drwxr-xr-x@  3 root     wheel    96B Feb 27 14:27 Maps.app
-drwxr-xr-x@  3 root     wheel    96B Mar 28 07:57 Messages.app
-drwxrwxr-x   3 root     wheel    96B May 15 09:01 Microsoft Excel.app
-drwxrwxr-x   3 root     wheel    96B May 15 09:01 Microsoft OneNote.app
-drwxrwxr-x   3 root     wheel    96B May 15 09:01 Microsoft Outlook.app
-drwxrwxr-x   3 root     wheel    96B May 15 09:01 Microsoft PowerPoint.app
-drwxrwxr-x   3 root     wheel    96B May 15 09:01 Microsoft Word.app
-drwxr-xr-x@  3 root     wheel    96B Oct 19  2017 Mission Control.app
-drwxr-xr-x   3 garygao  admin    96B Mar 28 00:55 Navicat Premium.app
-drwxr-xr-x   3 garygao  staff    96B Dec 27 17:13 NeteaseMusic.app
-drwxr-xr-x   3 garygao  admin    96B Mar 12 11:46 NewFileMenu.app
-drwxr-xr-x@  3 root     wheel    96B Feb  2 13:37 Notes.app
-drwxr-xr-x@  3 root     wheel    96B Dec  8 09:31 Photo Booth.app
-drwxr-xr-x@  3 root     wheel    96B Feb 27 14:53 Photos.app
-drwxr-xr-x@  3 root     wheel    96B Jan  6 10:21 Preview.app
-drwxr-xr-x   3 garygao  staff    96B Apr 25 19:21 PyCharm.app
-drwxr-xr-x   3 garygao  staff    96B Apr 26 16:56 QQ.app
-drwxr-xr-x@  3 root     wheel    96B Mar  8 08:21 QuickTime Player.app
-drwxr-xr-x@  3 root     wheel    96B Nov 16  2017 Reminders.app
-drwxr-xr-x   3 garygao  staff    96B Feb  8 16:38 Robo 3T.app
-drwxr-xr-x@  3 root     wheel    96B Mar  2 14:01 Safari.app
-drwxr-xr-x@  3 garygao  admin    96B Aug  3  2017 SecureCRT.app
-drwxr-xr-x@  3 garygao  admin    96B Aug  3  2017 SecureFX.app
-drwxr-xr-x   3 garygao  staff    96B Feb  6 14:27 ShadowsocksX-NG.app
-drwxr-xr-x@  3 root     wheel    96B Oct 19  2017 Siri.app
-drwxr-xr-x   3 garygao  staff    96B Apr 18 14:52 Sourcetree.app
-drwxr-xr-x@  3 root     wheel    96B Oct  7  2017 Stickies.app
-drwxr-xr-x   3 garygao  staff    96B May 28 09:12 Sublime Text.app
-drwxr-xr-x   3 garygao  staff    96B Mar 30 12:50 SwitchHosts!.app
-drwxr-xr-x@  3 root     wheel    96B Oct 17  2017 System Preferences.app
-drwxr-xr-x@  3 root     wheel    96B Jan 29 04:35 TextEdit.app
-drwxr-xr-x   3 garygao  staff    96B Mar 27 19:22 The Unarchiver.app
-drwxr-xr-x   3 garygao  staff    96B Mar 20 16:32 Thunder.app
-drwxr-xr-x@  3 root     wheel    96B Oct 19  2017 Time Machine.app
-drwxr-xr-x   3 root     wheel    96B Nov 18  2016 Tunnelblick.app
-drwxr-xr-x+ 21 root     admin   672B Mar 28 11:00 Utilities
-drwxr-xr-x@  3 garygao  admin    96B May  4 10:20 WeChat.app
-drwxr-xr-x@  3 root     wheel    96B Mar  6 13:49 iBooks.app
-drwxr-xr-x@  3 root     wheel    96B Jan 22 19:28 iTunes.app
-drwxr-xr-x   3 garygao  admin    96B Nov 25  2015 rdm.app
+drwxr-xr-x   3 garygao  staff    96B  4  9 19:47 Alfred 3.app
+drwxr-xr-x@  3 root     wheel    96B  3  1 19:08 App Store.app
+drwxr-xr-x@  3 root     wheel    96B  2  8 11:17 Automator.app
+drwxr-xr-x   3 garygao  staff    96B 12 26 15:55 BaiduNetdisk_mac.app
+drwxr-xr-x@  3 root     wheel    96B 10  7  2017 Calculator.app
+drwxr-xr-x@  3 root     wheel    96B  2  7 10:45 Calendar.app
+drwxr-xr-x   3 garygao  staff    96B  1 27 21:31 CheatSheet.app
+drwxr-xr-x@  3 root     wheel    96B  2 22 12:45 Chess.app
+drwxr-xr-x   3 garygao  admin    96B 11 23  2017 CleanMyMac 3.app
+drwxr-xr-x@  3 root     wheel    96B  1 29 06:00 Contacts.app
+drwxr-xr-x@  3 garygao  admin    96B  9 17  2016 Cornerstone.app
+drwxr-xr-x@  3 root     wheel    96B 10 12  2017 DVD Player.app
+drwxr-xr-x@  3 root     wheel    96B 10 19  2017 Dashboard.app
+drwxr-xr-x@  3 root     wheel    96B 10  7  2017 Dictionary.app
+drwxr-xr-x@  3 garygao  staff    96B  3 30 06:03 Evernote.app
+drwxr-xr-x@  3 root     wheel    96B  2 22 12:39 FaceTime.app
+drwxr-xr-x@  3 root     wheel    96B  2  5 04:16 Font Book.app
+drwxrwxr-x@  3 garygao  admin    96B  5 15 08:20 Google Chrome.app
+drwxr-xr-x   3 garygao  staff    96B  5  7 01:17 IINA.app
+drwxr-xr-x@  3 root     wheel    96B 12 13 14:29 Image Capture.app
+drwxr-xr-x   3 garygao  staff    96B  5  8 14:41 IntelliJ IDEA.app
+drwxr-xr-x   3 garygao  staff    96B  1 17  2017 Jietu.app
+drwxr-xr-x@  3 root     wheel    96B 10 19  2017 Launchpad.app
+drwxr-xr-x@  3 root     wheel    96B  3  3 10:39 Mail.app
+drwxr-xr-x@  3 root     wheel    96B  2 27 14:27 Maps.app
+drwxr-xr-x@  3 root     wheel    96B  3 28 07:57 Messages.app
+drwxrwxr-x   3 root     wheel    96B  5 15 09:01 Microsoft Excel.app
+drwxrwxr-x   3 root     wheel    96B  5 15 09:01 Microsoft OneNote.app
+drwxrwxr-x   3 root     wheel    96B  5 15 09:01 Microsoft Outlook.app
+drwxrwxr-x   3 root     wheel    96B  5 15 09:01 Microsoft PowerPoint.app
+drwxrwxr-x   3 root     wheel    96B  5 15 09:01 Microsoft Word.app
+drwxr-xr-x@  3 root     wheel    96B 10 19  2017 Mission Control.app
+drwxr-xr-x   3 garygao  admin    96B  3 28 00:55 Navicat Premium.app
+drwxr-xr-x@  3 garygao  admin    96B  5  1 20:25 NetWorker.app
+drwxr-xr-x   3 garygao  staff    96B 12 27 17:13 NeteaseMusic.app
+drwxr-xr-x   3 garygao  admin    96B  3 12 11:46 NewFileMenu.app
+drwxr-xr-x@  3 root     wheel    96B  2  2 13:37 Notes.app
+drwxr-xr-x@  3 root     wheel    96B 12  8 09:31 Photo Booth.app
+drwxr-xr-x@  3 root     wheel    96B  2 27 14:53 Photos.app
+drwxr-xr-x@  3 root     wheel    96B  1  6 10:21 Preview.app
+drwxr-xr-x   3 garygao  staff    96B  4 25 19:21 PyCharm.app
+drwxr-xr-x   3 garygao  staff    96B  4 26 16:56 QQ.app
+drwxr-xr-x@  3 root     wheel    96B  3  8 08:21 QuickTime Player.app
+drwxr-xr-x@  3 root     wheel    96B 11 16  2017 Reminders.app
+drwxr-xr-x   3 garygao  staff    96B  2  8 16:38 Robo 3T.app
+drwxr-xr-x@  3 root     wheel    96B  3  2 14:01 Safari.app
+drwxr-xr-x@  3 garygao  admin    96B  8  3  2017 SecureCRT.app
+drwxr-xr-x@  3 garygao  admin    96B  8  3  2017 SecureFX.app
+drwxr-xr-x   3 garygao  staff    96B  2  6 14:27 ShadowsocksX-NG.app
+drwxr-xr-x@  3 root     wheel    96B 10 19  2017 Siri.app
+drwxr-xr-x   3 garygao  staff    96B  4 18 14:52 Sourcetree.app
+drwxr-xr-x@  3 root     wheel    96B 10  7  2017 Stickies.app
+drwxr-xr-x@  3 garygao  admin    96B  5 14 07:18 Sublime Text.app
+drwxr-xr-x   3 garygao  staff    96B  3 30 12:50 SwitchHosts!.app
+drwxr-xr-x@  3 root     wheel    96B 10 17  2017 System Preferences.app
+drwxr-xr-x@  3 root     wheel    96B  1 29 04:35 TextEdit.app
+drwxr-xr-x   3 garygao  staff    96B  3 27 19:22 The Unarchiver.app
+drwxr-xr-x   3 garygao  staff    96B  3 20 16:32 Thunder.app
+drwxr-xr-x@  3 root     wheel    96B 10 19  2017 Time Machine.app
+drwxr-xr-x   3 root     wheel    96B 11 18  2016 Tunnelblick.app
+drwxr-xr-x+ 21 root     admin   672B  3 28 11:00 Utilities
+drwxr-xr-x@  3 garygao  admin    96B  5  4 10:20 WeChat.app
+drwxr-xr-x@  3 root     wheel    96B  3  6 13:49 iBooks.app
+drwxr-xr-x@  3 root     wheel    96B  1 22 19:28 iTunes.app
+drwxr-xr-x   3 garygao  admin    96B 11 25  2015 rdm.app

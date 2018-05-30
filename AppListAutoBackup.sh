@@ -41,10 +41,17 @@ if [ ! -x $AppInstaller ]; then
   chmod +x $AppInstaller
 fi
 
-
-if [ ! -d AppList_Folder_GIT];then
-	git init AppList_Folder
+# 上传github
+if [ ! -d AppList_Folder_GIT ];then
+	current=`date "+%Y-%m-%d %H:%M:%S"`  
+	timeStamp=`date -d "$current" +%s`   
+	#将current转换为时间戳，精确到毫秒  
+	currentTimeStamp=$((timeStamp*1000+`date "+%N"`/1000000)) 
+	git add .
+	git commit -m "$currentTimeStamp,上传AppList"
 fi	
+
+
 
 
 
