@@ -43,6 +43,7 @@ fi
 
 # 上传github
 if [ ! -d AppList_Folder_GIT ];then
+	git pull origin master
 	git add .
 	git commit -m "`date '+%s'` ,上传AppList"
 	git push origin master
