@@ -49,10 +49,6 @@ if [ ! -d AppList_Folder_GIT ];then
 	git push origin master
 fi	
 
-#发送邮箱
-echo "sending mail ready..."
-
-uuencode ./AppList_Folder AppList_Folder |mail -s "测试 346703329@qq.com < combined.txt
 
 
 
