@@ -1,0 +1,13 @@
+# AppList
+
+### 管理MAC应用列表 重装后的MAC可以直接下载原有的应用
+
+#### 建议定时任务每周触发一次
+
+`` 28 10 * * 1 export PATH=/usr/local/bin:$PATH && /Users/garygao/Documents/AppList/AppListAutoBackup.sh ``
+begin 644 Brew_List.txt
+M9V1B;0IL:6)Y86UL"FUA8VMU<`IM87,*;6%V96X*;W!E;G-S;`IP>71H;VX*
+M<'ET:&]N0#(*<F5A9&QI;F4*<G5B>0IS<6QI=&4*=&5L;F5T"GAZ"GIO;VME
+997!E<@IZ<V@*>G-H+6-O;7!L971I;VYS"@``
+`
+end
