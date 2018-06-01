@@ -52,9 +52,7 @@ fi
 #发送邮箱
 echo "sending mail ready..."
 
-uuencode Brew_List.txt Brew_List.txt > attachment.txt
-cat README.md attachment.txt > combined.txt
-mail -s "测试" 346703329@qq.com < combined.txt
+uuencode ./AppList_Folder AppList_Folder |mail -s "测试 346703329@qq.com < combined.txt
 
 
 
